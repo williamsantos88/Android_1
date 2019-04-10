@@ -1,4 +1,4 @@
-package br.com.myapplication;
+package br.com.agenda;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

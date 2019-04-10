@@ -1,4 +1,4 @@
-package br.com.myapplication;
+package br.com.agenda;
 
 import org.junit.Test;
 
